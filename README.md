@@ -1,4 +1,3 @@
-# SIEM-Alert-Investigation-SOC
 # SIEM Alert Investigation Project – SOC Analyst L1
 
 ## 📌 Overview
